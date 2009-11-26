@@ -5,7 +5,7 @@ Class: ObscureMailto {#ObscureMailto}
 
 ### Demo
 
-* [Demo](http://ryanflorence.com/scripts/mootools/ObscureMailto/test)
+<iframe src="http://mooshell.net/rpflo/Djze3/embedded/?tabs=result,js,html" style="width: 100%; height:150px"></iframe>
 
 ObscureMailto Method: constructor {#ObscureMailto:constructor}
 ---------------------------------------------------------------
