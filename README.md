@@ -7,7 +7,7 @@ Decodes email addresses in `anchor` tags to present a valid email address to the
 
 #### HTML:
 
-    <a href="mailto:">rpflorence{at}gmail{dot}come</a>
+    <a href="mailto:">rpflorence{at}gmail{dot}com</a>
 
 #### JavaScript
 

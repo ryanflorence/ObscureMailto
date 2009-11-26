@@ -29,7 +29,7 @@ ObscureMailto Method: constructor {#ObscureMailto:constructor}
 
 #### HTML:
 
-    <a href="mailto:">rpflorence{at}gmail{dot}come</a>
+    <a href="mailto:">rpflorence{at}gmail{dot}com</a>
 
 #### JavaScript
 
